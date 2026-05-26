@@ -1,0 +1,74 @@
+[
+  {
+    "pregunta": "¿Cuál es la capital de España?",
+    "respuesta": "Madrid",
+    "opciones": ["Madrid", "Barcelona", "Sevilla"],
+    "tema": "geografia"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Francia?",
+    "respuesta": "París",
+    "opciones": ["Marsella", "París", "Lyon"],
+    "tema": "geografia"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Italia?",
+    "respuesta": "Roma",
+    "opciones": ["Milán", "Nápoles", "Roma"],
+    "tema": "geografia"
+  },
+  {
+    "pregunta": "¿Jugador con más balones de oro?",
+    "respuesta": "Messi",
+    "opciones": ["Cristiano Ronaldo", "Messi", "Pelé"],
+    "tema": "deportes"
+  },
+  {
+    "pregunta": "¿Jugador con más goles en la historia del fútbol?",
+    "respuesta": "Ronaldo",
+    "opciones": ["Messi", "Ronaldo", "Maradona"],
+    "tema": "deportes"
+  },
+  {
+    "pregunta": "¿Quién es el piloto actual con más títulos en la parrilla de F1?",
+    "respuesta": "Hamilton",
+    "opciones": ["Verstappen", "Alonso", "Hamilton"],
+    "tema": "deportes"
+  },
+  {
+    "pregunta": "¿Quién es el artista con más premios Grammy?",
+    "respuesta": "Beyonce",
+    "opciones": ["Beyonce", "Adele", "Taylor Swift"],
+    "tema": "musica"
+  },
+  {
+    "pregunta": "¿Quien es el artista español mas escuchado en spotify?",
+    "respuesta": "Quevedo",
+    "opciones": ["Rosalía", "C. Tangana", "Quevedo"],
+    "tema": "musica"
+  },
+  {
+    "pregunta": "¿A qué cantante español le robaron su carro?",
+    "respuesta": "Manolo Escobar",
+    "opciones": ["Manolo Escobar", "Julio Iglesias", "Raphael"],
+    "tema": "musica"
+  },
+  {
+    "pregunta": "¿Qué videojuego es el más vendido de la historia?",
+    "respuesta": "Minecraft",
+    "opciones": ["Minecraft", "GTA V", "Tetris"],
+    "tema": "videojuegos"
+  },
+  {
+    "pregunta": "¿Quién es el fontanero más famoso de los videojuegos?",
+    "respuesta": "Mario",
+    "opciones": ["Luigi", "Wario", "Mario"],
+    "tema": "videojuegos"
+  },
+  {
+    "pregunta": "¿En qué juego de disparos se realiza la mítica construcción en tiempo real?",
+    "respuesta": "Fortnite",
+    "opciones": ["Call of Duty", "Fortnite", "Minecraft"],
+    "tema": "videojuegos"
+  }
+]
